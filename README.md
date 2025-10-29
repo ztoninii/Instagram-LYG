@@ -1,2 +1,2 @@
 # Instagram-LYG
-Instagram Fake 
+Instagram Fake para a composição do trabalho LYG.
